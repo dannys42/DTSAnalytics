@@ -1,0 +1,6 @@
+framework module DTSAnalytics {
+  umbrella header "DTSAnalytics-umbrella.h"
+
+  export *
+  module * { export * }
+}

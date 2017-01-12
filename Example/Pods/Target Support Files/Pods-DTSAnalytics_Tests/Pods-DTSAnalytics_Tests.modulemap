@@ -1,0 +1,6 @@
+framework module Pods_DTSAnalytics_Tests {
+  umbrella header "Pods-DTSAnalytics_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - DTSAnalytics (0.1.0)
+
+DEPENDENCIES:
+  - DTSAnalytics (from `../`)
+
+EXTERNAL SOURCES:
+  DTSAnalytics:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DTSAnalytics: 345960975e5c11456cfc6822eff8c3b6a3b4333d
+
+PODFILE CHECKSUM: 193b354652fbc6e73e196c60274fe1ba76ed5751
+
+COCOAPODS: 1.1.1
