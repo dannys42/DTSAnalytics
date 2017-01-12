@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import DTSAnalytics
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        DTSAnalytics.event("View Did Load!")
     }
 
     override func didReceiveMemoryWarning() {
