@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DTSAnalytics_Example' do
+  pod 'DTSAnalytics', :path => '../'
+
+  target 'DTSAnalytics_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
